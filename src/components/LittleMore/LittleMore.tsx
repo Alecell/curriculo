@@ -1,4 +1,4 @@
-import { faRoad, faUser } from '@fortawesome/free-solid-svg-icons';
+import { faRoad } from '@fortawesome/free-solid-svg-icons';
 
 import AsideTitle from '../AsideTitle/AsideTitle';
 

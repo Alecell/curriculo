@@ -17,7 +17,7 @@ function Languages(props: ILanguagesProps) {
   const renderLanguages = () => languages.map((language, index) => (
     <div className={scss.language} key={index}>
       <div className={scss.imageContainer}>
-        <img className={scss.image} src={language.flag} />
+        <img className={scss.image} src={language.flag} alt='language flag' />
       </div>
       <span className={scss.name}>{language.name}</span>
       <div className={scss.levelContainer}>
