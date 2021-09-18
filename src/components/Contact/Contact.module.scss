@@ -1,0 +1,31 @@
+.container {
+  padding: 2.1rem;
+
+  .contact {
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+    margin-top: 0.8rem;
+
+    .iconContainer {
+      width: 24px;
+      height: 24px;
+      background-color: white;
+      color: #2d343a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      font-size: 1.2rem;
+      flex-shrink: 0;
+      margin-right: 1.2rem;
+    }
+
+    .link {
+      font-size: 1.1rem;
+      color: white;
+      text-decoration: none;
+      line-height: 1.3;
+    }
+  }
+}
