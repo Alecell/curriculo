@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4b79128.chunk.css",
-    "main.js": "/static/js/main.db0d0faa.chunk.js",
-    "main.js.map": "/static/js/main.db0d0faa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.619fbc41.js",
-    "runtime-main.js.map": "/static/js/runtime-main.619fbc41.js.map",
-    "static/js/2.ba8b5e2b.chunk.js": "/static/js/2.ba8b5e2b.chunk.js",
-    "static/js/2.ba8b5e2b.chunk.js.map": "/static/js/2.ba8b5e2b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.c4b79128.chunk.css.map": "/static/css/main.c4b79128.chunk.css.map",
-    "static/js/2.ba8b5e2b.chunk.js.LICENSE.txt": "/static/js/2.ba8b5e2b.chunk.js.LICENSE.txt",
-    "static/media/alexandre-gomes-pequeno.8233a6b6.png": "/static/media/alexandre-gomes-pequeno.8233a6b6.png",
-    "static/media/bandeira-eua.afa927c3.jpg": "/static/media/bandeira-eua.afa927c3.jpg",
-    "static/media/spanish.e0052ecf.png": "/static/media/spanish.e0052ecf.png"
+    "main.css": "/curriculo/static/css/main.c4b79128.chunk.css",
+    "main.js": "/curriculo/static/js/main.db0d0faa.chunk.js",
+    "main.js.map": "/curriculo/static/js/main.db0d0faa.chunk.js.map",
+    "runtime-main.js": "/curriculo/static/js/runtime-main.b0739bec.js",
+    "runtime-main.js.map": "/curriculo/static/js/runtime-main.b0739bec.js.map",
+    "static/js/2.ba8b5e2b.chunk.js": "/curriculo/static/js/2.ba8b5e2b.chunk.js",
+    "static/js/2.ba8b5e2b.chunk.js.map": "/curriculo/static/js/2.ba8b5e2b.chunk.js.map",
+    "index.html": "/curriculo/index.html",
+    "static/css/main.c4b79128.chunk.css.map": "/curriculo/static/css/main.c4b79128.chunk.css.map",
+    "static/js/2.ba8b5e2b.chunk.js.LICENSE.txt": "/curriculo/static/js/2.ba8b5e2b.chunk.js.LICENSE.txt",
+    "static/media/alexandre-gomes-pequeno.8233a6b6.png": "/curriculo/static/media/alexandre-gomes-pequeno.8233a6b6.png",
+    "static/media/bandeira-eua.afa927c3.jpg": "/curriculo/static/media/bandeira-eua.afa927c3.jpg",
+    "static/media/spanish.e0052ecf.png": "/curriculo/static/media/spanish.e0052ecf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.619fbc41.js",
+    "static/js/runtime-main.b0739bec.js",
     "static/js/2.ba8b5e2b.chunk.js",
     "static/css/main.c4b79128.chunk.css",
     "static/js/main.db0d0faa.chunk.js"
