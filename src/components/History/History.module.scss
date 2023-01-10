@@ -1,0 +1,71 @@
+.container {
+  display: flex;
+  align-items: baseline;
+  margin-top: 5.5rem;
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  .iconContainer {
+    width: 34px;
+    height: 34px;
+    background-color: #2d343a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 1.6rem;
+    color: white;
+    margin-right: 13px;
+    flex-shrink: 0;
+  }
+
+  .content {
+    color: #2d343a;
+    
+    .title {
+      font-size: 2.1rem;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    
+    .record {
+      margin-top: 3.4rem;
+
+      .recordTitle {
+        font-size: 2.1rem;
+        text-transform: uppercase;
+      }
+
+      .details {
+        margin-top: 8px;
+        margin-bottom: 13px;
+        color: #94a2ac;
+        font-size: 1.3rem;
+
+        .place {
+          color: inherit;
+
+          .placeName {
+            margin-left: 8px;
+          }
+        }
+
+        .duration {
+          margin-left: 34px;
+
+          .text {
+            margin-left: 8px;
+          }
+        }
+      }
+
+      .description {
+        color: #2d343a;
+        font-size: 1.3rem;
+        line-height: 1.6rem;
+      }
+    }
+  }
+}

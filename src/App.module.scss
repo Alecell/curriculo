@@ -1,0 +1,14 @@
+.page {
+  display: flex;
+  height: 1122px;
+
+  .aside {
+    background-color: #3e4950;
+    max-width: 250px;
+  }
+
+  .article {
+    max-width: 467px;
+    padding: 6rem 4rem;
+  }
+}
